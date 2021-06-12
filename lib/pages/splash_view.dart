@@ -2,7 +2,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_and_dialogflow/models_providers/theme_provider.dart';
 import 'package:flutter_and_dialogflow/pages/chatbot.dart';
+import 'package:flutter_linkify/flutter_linkify.dart';
 import 'package:provider/provider.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class SplashView extends StatefulWidget {
   SplashView({Key key}) : super(key: key);
@@ -69,6 +71,20 @@ class _SplashViewState extends State<SplashView> {
                 'Carlos David Páez Ferreira',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: width * 0.05),
+              ),
+              SizedBox(
+                height: height * 0.03,
+              ),
+              Text(
+                'https://github.com/carlos-paezf/Flutter_Dialogflow',
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: width * 0.05),
+              ),
+              Linkify(
+                text: 'https://github.com/carlos-paezf/Flutter_Dialogflow',
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: width * 0.05),
+                onOpen: _onOpen,
               ),
               SizedBox(
                 height: height * 0.03,
@@ -145,5 +161,13 @@ class _SplashViewState extends State<SplashView> {
         color: color,
       ),
     );
+  }
+
+  Future<void> _onOpen(LinkableElement link) async {
+    if (await canLaunch(link.url)) {
+      await launch(link.url);
+    } else {
+      throw 'Could not launch $link';
+    }
   }
 }
