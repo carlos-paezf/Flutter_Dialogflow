@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "materias-ghuf",
+  "private_key_id": "98de13c41058b3de5fae8f6329437258f9f98c50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7VTosX9k0dnZC\n2EWSQ7PJaNXxwgcD/qkmB3FLQsyH6J248rk5z9bCgpK++AzX3ql6ItX/IK3Kntn5\nf7WHs1dq0FEz1oSEE5Sq+qmSVDpC9uVOuAbAPaasjVtvUokaWHd7mczj3ODboHhT\n3jj3iswxoIHk1UGSp2DHHDnpB8quVdODJ/rpbdwXR/ptMc+1eBs0awHtXmMIhz1y\nnUhsG1jFeUbwvc3mZJ3RC9qluSgMmTI+NqZ9QIHD7UvXoSwACKJP/Y/ULZfGWzAy\nw+jlLEWDNHsSVFqh7W2SKuLgPfgAlWHxGPLIUFNOTT4Xlfos8FPcxBES1LvOMg1R\nLIqhhLIlAgMBAAECggEACudKhAOuKkIM3xYkcn9zSvFJppEjBGYBpV+Ahh9ktTJi\nX73s7wL8XoToEqpwYO4qUhwN9ZQK2YTGbiGzSKs1Ftf6Kfi97MwQ9qSxUv2JCJXD\nQgIvDmhoN5ngrQmSRlDI345ToR2djtr3tfX0vd+7w9WyScXp06XfWad4bWpRLzVh\nJJ9N7f2oYu3hjMG/fnzXqubm/gWJCizUHGHN3OyZyJ4sA6LKv4JhYD2GQaiU73ZV\nCQhxw5Xiv2kE+TeW6B6dhcmuhMQApVmmPhlb2sB5FAHKdWIjilTM74RovMiQMIac\na9mc9yrx+KPJVzj2vMFRkC7WwCfztc4hqEQ2opOsgQKBgQDbCtfep1QRqvzAtP1i\nfgadBNSIACpd6Tkt/OS750Bn96+oEjdX+8T6YjsU4lT1nQYx+uxquVkYjf9h/HOy\nK0eBl2yM1ybzl8RDspovrPgyWmcwHOHKKP8y0Bbmd5Q9I15TJqXir06ztfEKqEAP\n/qOa9l+SV2Nr9k6Gy+CyECh5QQKBgQDa8L/h6vMTO+vk0C1uG1WQUsiVLeXL5RgE\nCV+s/GsVf+gdQTGBEgsgY0/78bWy2jKgvMxYJtndkEc22ghSJ1Wr4ogQrs4a6eFY\nXfZivOVlpEwjLtsHoeE5slEs4nOjoySJz3JwDKnl9OygwqKX4u3FP5/+nXafa9k5\n6zcMOY575QKBgQCZZ0yryLBd90wwghD7C5wCF8HoxYTmZFIBXR2sY1Z9+b9xi+Bq\npA7d9DHAfIpXwXL3Se6NB+XYBoqWy0ETxK+9mJkTQhMrglyXtNu7C/5+9UVTMscG\n2BNyOL3xBkoxTzXeMjD3QyNxRLjdZ9wF16Yo/ucMDFu63rM8QEjLK/nMgQKBgQCd\n7qrL4frENiZc4RrUYV1ghYbxrbElWrXvO3/Lvi3UzXZ3m+6E56olC97HpD1oreN1\ndZuGP0hLfmcQl0kHUh6Hphp2xlIgsfN/FhDEevSTVGgjvQn8wHZCc3IBCb1XHjke\nPAmV8FyiaAJFmQFGxUi1T8cvGRFXwKlrEVSdOeuhTQKBgClo8MCF2lZkMWS5WDL+\nbn5qOMaRE9B9rGnJs++KMnj7ruIjGaMG6WiiW8ZtI1OnlQRpUNXKGKV6AeV8pkUV\ngafeM48WFRQAbl0Vk+n6VeXWAg4NMWk8FdMVq/vsU1/BfqLAMLn0IIRWoc68JDOt\nkGiOLtNz6X/PAMVrWp+M8abG\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflowflutter@materias-ghuf.iam.gserviceaccount.com",
+  "client_id": "102951404378787274980",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflowflutter%40materias-ghuf.iam.gserviceaccount.com"
+}

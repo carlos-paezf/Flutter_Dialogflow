@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "materias-ghuf",
+  "private_key_id": "dc7aa8b181dca4f37bfac910aa3dd58383710002",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuCOhHNnRfQ9Q3\ns2PBlHKWjnW4LLELvKzj4cgZWV+cjk2CPTt0BHp8b7Et6aTrIebjPhTxgFOjVIWW\nyUKOZqxg6RkW0eFKinMFAz6y77KCe8TJQksJrN1h1GRe+dwHNBSxOxVYkHlCC4SI\nzF6P1L7sJAm+P6p3q7kiMDvbE1eip6DSUqBZId39m0SSNs1hIQStxA3GgYd7Grzh\nSjR6xSFUzedp5aZtaJi42+8gUkxEaNsW4ph+xmLByrvJrir7z3cgd/58DSFAXKNJ\nftAgK8SormNeCZ1rJuaWxQohwb1eqg74O1svmxJ3WrJcrhUgfpX4Ajc51Svgqytk\nu4AcStKtAgMBAAECggEAGxXsTq8BMBVuqSecejOIHPn5hMtB172K2+GXIqjX+lXk\nZsVwZBdRV94LQYXIQscRN+NA37A09CnSq7vRhbehkuicXMKX8WG4UnqljrRDAE9S\nem88nfofL1terrBs59sZcFbtdM3xbU+9FgxWmESIXVijgo5Gkd7yTomauzcYr8ns\nWjwYUb5CjLCdPVdTXaZma6JicEmqTirlDKEi5K827ta5RH4h91FSKg6wXXBB+19a\nabWahnrGStCNyjo6Psh2GxtonVIsRYWokwE0ZkVfaVKWC3hQMe3JVn69QQq6DCP0\nqaxmDFyfA7tdtrQ6mNHPfpymiX3EUb7gi0IeyhSbMQKBgQDsopLHGFsTryOxXqEm\nQest+31nky88/XjmVaRLig5V6MjBCF33YA5l+AosuHamVP2alq1b20kegkCG+TG7\nQmKtD3ojeNLBkPdyqz1dyVUEE+b1dEngiCiHEw5hGtQg79qqXsi/3IcUUjh6nTVo\nDO+zfIB5PhpXNGkFzvexUyrEMQKBgQC8RuEPIAVSjknyijRliJFaVOnzqCjLVsFw\nJ6m2OGyprOvapYmN/5wiA/Snna9tJXERU4nINcz5HPbMndYolPhiceJ2B1ff+nEn\nPV/GRQy1tWN1XbCC6LQ8zv0cuYyr6nCTP4/EC/z5X6xJbZ0S+ci94/uKyoKO3FR2\nKS19n8WDPQKBgEmboJCx8NLErhOkXfhqlN9u1Wl8jTsplYwAo+SjgyYSDTCOi7xB\ncvkhGPkkQDQpR+HocPCb27jTx4K0zVV0pwEySUnzcYuornBK+AHOeNWV40gC7mAb\nuo+Zy+VE1SuRsLFCXqvfy1z03oC1mkFNlNp+JfCQ8tyhfvHBmabdOfZhAoGBAJuG\nETLlSIBBeWQYNeAJR8hOjFLxfYE6UN/MY6xaP6iJZupeA5qAowCWM+qhnt+SJiwh\nzZbMmlzNSDEN0HIFXIg1etP0jOo/fmjjkdG+CBmxlE7G7Z+1ie0RLpQj0cfRCN0Z\njDBtlrKIDVE6cp3SJ7h0Mr0bO223Iy3YJfO3nvghAoGBAOaCapNp2sAXm8L9RbBG\nNmrPR+TD3b9VRwH7k5/mXkn8lPjR23iuiqivSJ0awUA1t3Kachm9VQ9BgOUSLunD\nh1LblH7NV/V+OVneK77KK4ZwQ3Wn4NqI3hxBvhh4pbKJFLJ57H8r6KF6wZ9MIpgd\n3RTQ6H3CcMrAZGCou9xa/hnN\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutter@materias-ghuf.iam.gserviceaccount.com",
+  "client_id": "104778486201662445833",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutter%40materias-ghuf.iam.gserviceaccount.com"
+}
